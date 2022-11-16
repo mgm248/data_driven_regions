@@ -12,10 +12,10 @@ Since then, I've been interested in finding a better way to define regions. The 
 This respository contains two notebooks that attempt to define regions in a data-driven manner -- *cluster_regions_demographics* and *FB_network_connectivity*.
 
 *cluster regions_demographics* forms regions by KMeans clustering on geographical and demographic information. Here's an example output: 
-
 ![Algorithm schema](./images/geo_demo_100.png)
 
-*FB_network_connectivity* forms regions by agglomerative clustering on a measure of the relative number of facebook friends between counties
+*FB_network_connectivity* forms regions by agglomerative clustering on a measure of the relative number of facebook friends between counties. Here's an example output:
+![Algorithm schema](./images/sci.png)
 
 ## Application
 
