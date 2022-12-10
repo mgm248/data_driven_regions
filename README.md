@@ -1,6 +1,7 @@
 # Topics
 
 [Data driven regions](#Data-driven-regions)
+
 [Uniquely connected counties](#Uniquely-connected-counties)
 
 ## Data-driven-regions
