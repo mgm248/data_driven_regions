@@ -1,8 +1,7 @@
 # Topics
 
-[Data driven regions](#Data-driven-regions)
-
-[Uniquely connected counties](#Uniquely-connected-counties)
+1. [Data driven regions](#Data-driven-regions)
+2. [Uniquely connected counties](#Uniquely-connected-counties)
 
 ## Data-driven-regions
 
@@ -27,3 +26,5 @@ This respository contains two notebooks that attempt to define regions in a data
 This project was mostly done for fun. Still, the process of defining regions in a data-driven manner could be used to reduce gerrymandering in states, or to better group areas when analyzing differences over geographic regions.
 
 ## Uniquely-connected-counties
+
+### Introduction
