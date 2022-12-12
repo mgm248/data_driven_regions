@@ -47,6 +47,8 @@ Some interesting county pairs identified by this algorithm:
 
 Turns out they both have a naval base! Groton Connecticut, also highlighted (and maybe those other highlighted counties on the east coast) has one too.
 
+#### Utah, Utah and Buena Vista City
+
 ![Algorithm schema](./images/49049_50.png)
 
 Buena Vista City Virginia is home to Southern Virginia University, a [Mormon University](https://archive.sltrib.com/article.php?id=9363275&itype=NGPSID)
