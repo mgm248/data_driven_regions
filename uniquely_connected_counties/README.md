@@ -8,7 +8,7 @@ It turns out Meta has an excellent [dataset](https://dataforgood.facebook.com/df
 
 >Northern cities like Chicago and Milwaukee still retain close ties to Southern counties along the Mississippi River, where African-American workers who were part of the Great Migration starting a century ago left communities for industrial jobs in the North. Kern County, Calif., holds ties today to counties in Oklahoma, where the Dust Bowl in the 1930s led to another significant migration (oil-producing Kern County today is also closely tied to parts of northwest North Dakota that are experiencing an oil boom).
 
-The premise of this project is there are all sorts of interesting relationships between counties that would be interesting to identify, but laborous to find manually. This project algorithmically finds unqiue relationships between counties.
+The premise of this project is there are all sorts of interesting relationships between counties that would be interesting to identify, but laborous to find manually. This project algorithmically finds unique relationships between counties.
 
 ## Methods
 
