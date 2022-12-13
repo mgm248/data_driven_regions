@@ -26,14 +26,14 @@ Two example use cases for this repo:
 
 #### Cook County (Chicago) Illinois
 
-**SCI**
+**Social Connectedness Index**
 ![Algorithm schema](./images/17031_0.png)
 **Uniquely connected counties**
 ![Algorithm schema](./images/17031_50.png)
 
 #### County of Los Angeles, CA
 
-**SCI**
+**Social Connectedness Index**
 ![Algorithm schema](./images/6037_0.png)
 **Uniquely connected counties**
 ![Algorithm schema](./images/6037_50.png)
